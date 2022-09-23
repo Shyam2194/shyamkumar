@@ -1,6 +1,6 @@
 # Azure-Health
 this is informational bot application developed fpr education releated to gove information about MS azure
-this web based informational bot application has been developed for the accomplishment of furture ready talent, future skill prime, Quess, GitHub,EY
+# this web based informational bot application has been developed for the accomplishment of furture ready talent, future skill prime, Quess, GitHub,EY
 project link:
 
 # images
@@ -9,7 +9,7 @@ project link:
 ![pic6](https://user-images.githubusercontent.com/114166173/191804988-6494dd30-be98-477b-b580-36f115d7691d.jpg)
 ![logo](https://user-images.githubusercontent.com/114166173/191805072-43bc7bd5-afd4-4272-bc7f-34c12ab85014.png)
 # index
-file:///C:/Users/HP/Downloads/yoga-web_Free06-11-2017_1974855737/web/index.html
+"C:\Users\HP\Downloads\yoga-web_Free06-11-2017_1974855737\web\index.html"
 # About
 file:///C:/Users/HP/Downloads/yoga-web_Free06-11-2017_1974855737/web/about.html
 # service
