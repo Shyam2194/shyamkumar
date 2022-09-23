@@ -24,6 +24,15 @@ Vivekananda School of Yoga is a Unit of Swami Vivekananda Seva Kendra, Bangalore
 * Yoga is a way to freedom
 * Yoga is possible for anybody who really wants it
 # Screenshots
-![image](https://user-images.githubusercontent.com/114166173/191879605-200b5c39-7525-4d7e-8185-c23bb45f6d23.png)
-![image](https://user-images.githubusercontent.com/114166173/191879628-296dfdfe-8466-416b-bdd3-4fedc5214a40.png)
-![image](https://user-images.githubusercontent.com/114166173/191879650-67e2166f-34c6-4bd5-9595-12b36bf1b03a.png)
+# Home page
+![home page](https://user-images.githubusercontent.com/114166173/191884719-2f6367ca-d047-4d27-8398-6a852eccbaf1.png)
+# service page
+![service](https://user-images.githubusercontent.com/114166173/191884782-7589499d-c1f2-48df-a56a-f908f7b0a953.png)
+# staff page
+![staff](https://user-images.githubusercontent.com/114166173/191884832-5044dfbb-4dc4-4957-b466-55ce3a7a6cab.png)
+# About page
+![about](https://user-images.githubusercontent.com/114166173/191884874-0f5005b7-a1df-4d98-821d-312f8f2a4baf.png)
+# Contact page
+![contact](https://user-images.githubusercontent.com/114166173/191884904-5d21b75f-3f36-4e2c-a9e4-30f0add6c37f.png)
+
+
